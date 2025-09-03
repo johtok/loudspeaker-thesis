@@ -1,0 +1,15 @@
+[submodule "dtu_landingpage"]
+	path = dtu_landingpage
+	url = git@github.com:johtok/dtu_landingpage.git
+[submodule "loudspeaker.jl"]
+	path = loudspeaker.jl
+	url = git@github.com:johtok/loudspeaker.jl.git
+[submodule "loudspeaker-datasets"]
+	path = loudspeaker-datasets
+	url = git@github.com:johtok/loudspeaker-datasets
+[submodule "jax-loudspeaker"]
+	path = jax-loudspeaker
+	url = git@github.com:johtok/jax-loudspeaker.git
+[submodule "thesis-writings"]
+	path = thesis-writings
+	url = git@github.com:johtok/thesis-writings
