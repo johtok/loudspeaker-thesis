@@ -13,3 +13,6 @@
 [submodule "Loudspeaker.jl"]
 	path = Loudspeaker.jl
 	url = git@github.com:johtok/Loudspeaker.jl.git
+[submodule "Loudspeaker.py"]
+	path = Loudspeaker.py
+	url = https://github.com/johtok/Loudspeaker.py
